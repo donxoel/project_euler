@@ -4,15 +4,11 @@ Named after Leonhard Euler, [Project Euler](https://projecteuler.net/) is dedica
 
 It includes more than 990 problems with a new one added approximately every week. Problems are of varying difficulty, but each is solvable in less than a minute of CPU time using an efficient algorithm on a modestly powered computer; this is the goal to be reached for each approach (beside the correct answer itself).
 
-
-
-
-
-
 ## Markers
 
 - Use of Dijkstra algorithm in Problems 18 and 67
 - Creation of permutation function (see own repository)
+- Sieve of Eratosthenes, Collatz
 
 ## Progress so far
 
