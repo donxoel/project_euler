@@ -7,7 +7,7 @@ It includes more than 990 problems with a new one added approximately every week
 ## Markers
 
 - Use of Dijkstra algorithm in Problems 18 and 67
-- Creation of permutation function (see own repository)
+- Creation of permutation function ([see own repository](https://github.com/donxoel/permutations) or Problem 49)
 - Sieve of Eratosthenes, Collatz
 - Sorting algorithms (Quicksort, see Problem 22)
 
