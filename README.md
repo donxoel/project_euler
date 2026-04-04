@@ -13,6 +13,8 @@ It includes more than 990 problems with a new one added approximately every week
 
 ## Progress so far
 
+"There is nothing quite like that "Aha!" moment when you finally beat a problem which you have been working on for some time. Please do not deprive others of going through the same process by publishing your solution outside of Project Euler. Members found to be spoiling problems beyond the first one-hundred problems will have their accounts locked." Therefore every approach beyond Problem 100 needs to be private.
+
 <img width="997" height="54" alt="grafik" src="https://github.com/user-attachments/assets/b85f8242-1f16-4c3e-a572-7a41d9633f03" />
 
 [![Project Euler](https://projecteuler.net/profile/TheJoth123.png)](https://projecteuler.net/archives)
