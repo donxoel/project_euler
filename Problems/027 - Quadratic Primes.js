@@ -8,7 +8,6 @@ function isPrime(n) {
     for (let i = 5; i * i <= n; i += 6) {
         if (n % i === 0 || n % (i + 2) === 0) return false;
     }
-    
     return true;
 }
 
@@ -27,7 +26,6 @@ function quadraticPrimes() {
             }
         }
     }
-
     return product;
 }
 
