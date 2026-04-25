@@ -18,5 +18,4 @@ It includes more than 990 problems with a new one added approximately every week
 <img width="997" height="54" alt="grafik" src="https://github.com/user-attachments/assets/b85f8242-1f16-4c3e-a572-7a41d9633f03" />
 
 [![Project Euler](https://projecteuler.net/profile/TheJoth123.png)](https://projecteuler.net/archives)
-<img width="303" height="309" alt="grafik" src="https://github.com/user-attachments/assets/ba1eb525-762d-486d-ab81-747c48e3645c" />
-<img width="303" height="309" alt="grafik" src="Problems/Supporting_resources/success.png" />
+<img width="303" height="309" alt="grafik" src="https://github.com/user-attachments/assets/ba1eb525-762d-486d-ab81-747c48e3645c" /> <img width="303" height="309" alt="grafik" src="Problems/Supporting_resources/success.png" />
