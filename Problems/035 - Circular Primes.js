@@ -41,5 +41,4 @@ function countCircularPrimes(limit) {
 
     return count;
 }
-
 console.log(countCircularPrimes(1000000)); 
